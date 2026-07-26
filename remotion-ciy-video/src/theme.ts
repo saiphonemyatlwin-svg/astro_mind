@@ -7,5 +7,5 @@ export const CIY = {
   greyText: '#6B7280',
 };
 
-export const FONT_MM = "'NotoMyanmar', 'Poppins', sans-serif";
-export const FONT_EN = "'Poppins', 'NotoMyanmar', sans-serif";
+export const FONT_MM = "'Noto Sans Myanmar', 'Poppins', sans-serif";
+export const FONT_EN = "'Poppins', 'Noto Sans Myanmar', sans-serif";

@@ -8,10 +8,7 @@ import {
   Scene,
   StepPill,
 } from './components';
-import {loadFonts} from './fonts';
 import {CIY, FONT_MM} from './theme';
-
-loadFonts();
 
 // ---- Scene durations (30 fps) — must sum to 5400 (180 s) ----
 const D = {
